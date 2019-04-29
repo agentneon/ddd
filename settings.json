@@ -1,8 +1,7 @@
 {
-    "ownerid": "203604445051748353",
-    "_comment": "mod and admin role IDs are server-specific.",
-    "modroleid": "MOD-ROLE-ID",
-    "adminroleid": "ADMIN-ROLE-ID",
-    "prefix": "%",
-    "token": "TOKEN-REDACTED"
+    "ownerid": "440946143015469075",
+    "modroleid": "571671255925784596",
+    "adminroleid": "571671255925784596",
+    "prefix": "!",
+    "token": "NTcyNDQxNjM5NjA4Mzg1NTM4.XMcb2w.ndjNFCkD2v82dLjpIxOwuNdBuKM"
 }
